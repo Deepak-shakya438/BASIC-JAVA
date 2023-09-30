@@ -4,7 +4,6 @@ public class FunctionsByShradda {
 // we will write return type int because this time it will return sum of two numbers
 public static int calculateSum(int a,int b){
     int sum=a+b;
-    // System.out.println(sum+"give this time to the terminal to the value of the  this time");
     return sum;
 }
 
